@@ -10,8 +10,7 @@
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![JavaScript](./javascript.svg)
 ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#1.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
-
