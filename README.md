@@ -9,6 +9,7 @@
 ![HTML](./images/HTML.svg)
 ![CSS](./images/css.svg)
 ![Markdown](./images/Markdown.svg)
+
 ![Python](./images/python.svg)
 ![JavaScript](./images/javascript.svg)
 ![C#](./images/csharp.svg)
