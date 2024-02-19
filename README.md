@@ -3,3 +3,5 @@
 [![Main](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![2](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![3](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![4](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![5](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
