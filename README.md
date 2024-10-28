@@ -1,5 +1,3 @@
-# ![Header](./images/github-header-image_2.png)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Robbevanherpe1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Main](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
