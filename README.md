@@ -6,9 +6,6 @@
 [![4](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![5](https://raw.githubusercontent.com/Robbevanherpe1/Robbevanherpe1/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-![Blender](./images/Blender.svg)
-![VisualStudio](./images/visualcode.svg)
 ![HTML](./images/HTML.svg)
 ![CSS](./images/css.svg)
 ![Markdown](./images/Markdown.svg)
